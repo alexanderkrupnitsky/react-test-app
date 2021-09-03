@@ -1,7 +1,7 @@
 const Content = () => {
   return (
     <section className='content'>
-      <p>это Контент в реакте</p>
+      <p>это Контент в реакте. Это Тест-версия</p>
     </section>
   )
 }
